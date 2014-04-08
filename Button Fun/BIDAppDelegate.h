@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <stdio.h>
 
 @interface BIDAppDelegate : UIResponder <UIApplicationDelegate>
 
